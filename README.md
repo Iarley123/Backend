@@ -10,3 +10,5 @@
 Na criação deudanças, na fusão e atualização das branches.
 
 6) Para manter o código sempre atualizado e organizado no repositório principal e com as mudanças desejadas.
+
+# Final do README
